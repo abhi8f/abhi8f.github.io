@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: 2024-06-2024 11:00:00 +0530
+date: 2024-06-18 11:00:00 +0530
 categories: [general]
 tags: [helloworld]
 ---
