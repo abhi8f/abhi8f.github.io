@@ -7,6 +7,7 @@ tags: [PRODUCTIVITY]     # TAG names should always be lowercase
 # Extensions
 
 [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
 [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 # My VS Code Settings
